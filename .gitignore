@@ -1,0 +1,16 @@
+/data
+/.ipynb_checkpoints
+/latents
+# /ai_models
+/results
+/uploads
+/ai_models/sketch_to_anime_model_final
+
+*.zip
+# /files
+
+*.pth
+__pycache__/
+*/__pycache__/
+**/__pycache__/
+*.pyc

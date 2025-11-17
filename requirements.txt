@@ -1,0 +1,23 @@
+# PyTorch - Elige UNA de estas dos líneas según tu hardware
+# torch==2.1.2 --index-url https://download.pytorch.org/whl/cpu  # Para CPU
+torch==2.1.2 --index-url https://download.pytorch.org/whl/cu121  # Para GPU NVIDIA
+
+transformers==4.35.2
+diffusers==0.24.0
+
+Pillow==10.1.0
+numpy==1.24.3
+
+tqdm==4.66.1
+
+peft==0.7.1
+
+accelerate==0.25.0
+
+flask==3.0.0
+flask-restful==0.3.10
+flask-cors==4.0.0
+python-dotenv==1.0.0
+
+requests==2.31.0
+safetensors==0.4.1
